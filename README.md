@@ -1,1 +1,1 @@
-# javascriptt
+# TypeScript
